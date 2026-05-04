@@ -1,0 +1,11 @@
+.env
+token.json
+contract-config.json
+abi_content.txt
+__pycache__/
+*.pyc
+venv/
+node_modules/
+*.pptx
+vite/
+zerotrust-frontend@1.0.0
