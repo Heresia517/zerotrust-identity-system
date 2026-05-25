@@ -275,7 +275,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 Master 2 — Information Security | Université Aube Nouvelle, Burkina Faso
 Stage: YULCOM Technologies, Ouagadougou
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR-PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/hezekiah-topan)
 [![GitHub](https://img.shields.io/badge/GitHub-Heresia517-black?logo=github)](https://github.com/Heresia517)
 
 ---
